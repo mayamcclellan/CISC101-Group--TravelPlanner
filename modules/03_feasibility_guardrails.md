@@ -1,3 +1,5 @@
+Change Log (2025-11-13):
+- Updated Mobility Needs
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -24,7 +26,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 6. **Mobility Needs**
    
-   - If mobility limits noted → choose step-free, short-walk options and include breaks.
+   - If mobility limits noted → choose step-free, short-walk options and include breaks. Avoid steep inclines and provide options with elevators.
 
 7. **Dietary Needs**
    
