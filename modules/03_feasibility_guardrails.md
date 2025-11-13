@@ -26,7 +26,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 6. **Mobility Needs**
    
-   - If mobility limits noted → choose step-free, short-walk options and include breaks. Avoid steep inclines and provide options with elevators.
+   - If mobility limits noted → choose step-free, short-walk options and include breaks. Avoid steep inclines and ensure the hotels chosen have accessible rooms. 
 
 7. **Dietary Needs**
    
